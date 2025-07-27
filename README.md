@@ -9,7 +9,7 @@
   - Vital Avellaneda project
   - My blog
 - 🎯 I look forward to collaborating in a professional environment.
-- 🏠 Outside tech, I love watching and talking about soccer ⚽, playing video games 🎮, and listening to music 🎵.
+- 🏠 Outside tech, I love watching and talking about soccer ⚽, playing video games 🎮, and listening to music 🎵
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="27px"> ***Links***
 - 🤖 Check out my X/Twitter Bot, <a href="https://github.com/Leumig/messi-perfect-shots">Messi Perfect Shots</a>
