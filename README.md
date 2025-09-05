@@ -6,12 +6,13 @@
 
 - 👨‍💻 I'm a **Frontend Developer** with a university degree in Programming.
 - ⏳ Currently working on ...
-  - Vital Avellaneda project
   - My blog
+  - Another projects
 - 🎯 I look forward to collaborating in a professional environment.
 - 🏠 Outside tech, I love watching and talking about soccer ⚽, playing video games 🎮, and listening to music 🎵
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="27px"> ***Links***
+- ✨ Check out my best project, <a href="https://github.com/miguecode/vital-avellaneda">Vital Avellaneda</a>
 - 🤖 Check out my X/Twitter Bot, <a href="https://github.com/miguecode/messi-perfect-shots">Messi Perfect Shots</a>
 - 👨‍💻 Explore <a href="https://miguel-angel-gil.netlify.app/">My Portfolio</a>
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/gil-miguel-angel/">My LinkedIn</a>
