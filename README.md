@@ -14,7 +14,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="27px"> ***Links***
 - ✨ Check out my best project, <a href="https://github.com/miguecode/vital-avellaneda">Vital Avellaneda</a>
 - 🤖 Check out my X/Twitter Bot, <a href="https://github.com/miguecode/messi-perfect-shots">Messi Perfect Shots</a>
-- 👨‍💻 Explore <a href="https://miguel-angel-gil.netlify.app/">My Portfolio</a>
+- 👨‍💻 Explore <a href="https://miguelangelgil.netlify.app/">My Portfolio</a>
 - 💼 Connect with me on <a href="https://www.linkedin.com/in/gil-miguel-angel/">My LinkedIn</a>
 - 📫 Reach me at <a href="junmigue7@gmail.com">junmigue7@gmail.com</a>
 
