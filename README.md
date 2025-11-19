@@ -5,9 +5,7 @@
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="27px" margin-left="3px"> ***About me***
 
 - 👨‍💻 I'm a **Frontend Developer** with a university degree in Programming.
-- ⏳ Currently working on ...
-  - My blog
-  - Another projects
+- 💼 Currently working on Senzary LLC.
 - 🎯 I look forward to collaborating in a professional environment.
 - 🏠 Outside tech, I love watching and talking about soccer ⚽, playing video games 🎮, and listening to music 🎵
 
