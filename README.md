@@ -4,7 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="27px" margin-left="3px"> ***About me***
 
-- 👨‍💻 I'm a **Frontend Developer** with a university degree in Programming.
+- 👨‍💻 I'm a **Frontend Developer** with a university degree in Programming
 - 💼 Currently working at Senzary LLC as a Frontend Developer
 - ✍ Writing my blog and other projects
 - 🌱 Growing more and more
